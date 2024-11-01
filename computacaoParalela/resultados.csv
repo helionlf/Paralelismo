@@ -1,0 +1,21 @@
+Algoritmo, Tamanho do array, Tempo de execucao (ms), Threads
+BubbleSort, 1000, 39206200, 1
+BubbleSort Paralelo, 1000, 110705400, 2
+SelectionSort, 1000, 16380200, 1
+SelectionSort Paralelo, 1000, 96420200, 2
+BubbleSort, 5000, 54949400, 1
+BubbleSort Paralelo, 5000, 213241300, 2
+SelectionSort, 5000, 40969900, 1
+SelectionSort Paralelo, 5000, 190961300, 2
+BubbleSort, 10000, 181369800, 1
+BubbleSort Paralelo, 10000, 658473200, 2
+SelectionSort, 10000, 64043000, 1
+SelectionSort Paralelo, 10000, 578668300, 2
+BubbleSort, 50000, 4801567300, 1
+BubbleSort Paralelo, 50000, 8075204000, 2
+SelectionSort, 50000, 1783992600, 1
+SelectionSort Paralelo, 50000, 4212060000, 2
+BubbleSort, 100000, 19297820600, 1
+BubbleSort Paralelo, 100000, 23962235500, 2
+SelectionSort, 100000, 6276964000, 1
+SelectionSort Paralelo, 100000, 14180586700, 2
